@@ -69,7 +69,7 @@
 ---
 
 ## 🔧 Инструменты и технологии
-*   **IDE:** [Visual Studio 2022 Community](https://visualstudio.microsoft.com/ru/vs/)
+*   **IDE:** [Visual Studio Community](https://visualstudio.microsoft.com/ru/vs/)
 *   **Платформа:** .NET 8 / .NET 9
 *   **Контроль версий:** Git + GitHub
 
